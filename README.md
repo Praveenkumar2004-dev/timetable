@@ -115,7 +115,8 @@ Execute the program
 ```
 
 # OUPUT
-1[OUTPUT](http://praveenkumar2004-dev.student.saveetha.in:8000/static/images/out.png?raw=true)
+![image](https://user-images.githubusercontent.com/119559827/214870048-6b6263e6-f211-495c-a9ed-ea467492a459.png)
+
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://praveenkumar2004-dev.student.saveetha.in:8000/static/images/valid.png?raw=true) 
